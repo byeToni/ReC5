@@ -1,0 +1,15 @@
+/Users/brogues/Desktop/C5/hw34/bin/Debug/net7.0/hw34
+/Users/brogues/Desktop/C5/hw34/bin/Debug/net7.0/hw34.deps.json
+/Users/brogues/Desktop/C5/hw34/bin/Debug/net7.0/hw34.runtimeconfig.json
+/Users/brogues/Desktop/C5/hw34/bin/Debug/net7.0/hw34.dll
+/Users/brogues/Desktop/C5/hw34/bin/Debug/net7.0/hw34.pdb
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.csproj.AssemblyReference.cache
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.AssemblyInfoInputs.cache
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.AssemblyInfo.cs
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.csproj.CoreCompileInputs.cache
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.dll
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/refint/hw34.dll
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.pdb
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/hw34.genruntimeconfig.cache
+/Users/brogues/Desktop/C5/hw34/obj/Debug/net7.0/ref/hw34.dll
